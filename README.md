@@ -4,7 +4,7 @@ Here is a full list of all the tube stations on the London Underground Network a
 
 ![London Undergound Map](https://tfl.gov.uk/tfl/syndication/widgets/tubemap/images/tube-medium-zoned.gif)
 
-> Tick the box with an `'x'` if you have used the station..
+> Tick the box with an `'x'` if you have used the station.
  
 - [ ] Acton Central (London Overground)
 - [ ] Acton Town (District, Piccadilly)
