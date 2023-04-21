@@ -2,7 +2,7 @@
 
 Here is a full list of all the tube stations on the London Underground Network and the Lines they are on. 
 
-![London Undergound Map](https://tfl.gov.uk/tfl/syndication/widgets/tubemap/images/tube-medium-zoned.gif)
+![London Undergound Map](img/tube-medium-zoned.gif)
 
 > Tick the box with an `'x'` if you have used the station.
  
